@@ -1,0 +1,80 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.2 - Encoders
+Emux_8to1
+Z0 w1554199548
+Z1 dD:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.3 - Multiplexers
+Z2 8D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.3 - Multiplexers/mux_8to1.vhd
+Z3 FD:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.3 - Multiplexers/mux_8to1.vhd
+l0
+L2
+Vf6b`92k8OF4IAgAg1e57I3
+!s100 dJSZob5W@EHoh]KS6Vm5T3
+Z4 OV;C;10.5b;63
+32
+Z5 !s110 1554199552
+!i10b 1
+Z6 !s108 1554199552.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.3 - Multiplexers/mux_8to1.vhd|
+Z8 !s107 D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.3 - Multiplexers/mux_8to1.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1 CvgOpt 0
+Amux_8to1_arch
+DEx4 work 8 mux_8to1 0 22 f6b`92k8OF4IAgAg1e57I3
+l9
+L7
+V^CgLT<^[J4aY0e>WHjERS3
+!s100 <Ll:VN84:zVUz8ZOBE2Q50
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Emux_8to1_tb
+Z11 w1554198909
+R1
+Z12 8D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.3 - Multiplexers/mux_8to1_TB.vhd
+Z13 FD:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.3 - Multiplexers/mux_8to1_TB.vhd
+l0
+L1
+VD`1?UA7dk6VjYDzXKab5]2
+!s100 9nNY;dQk5l@DoMJ?KP:862
+R4
+32
+Z14 !s110 1554198950
+!i10b 1
+Z15 !s108 1554198950.000000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.3 - Multiplexers/mux_8to1_TB.vhd|
+Z17 !s107 D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.3 - Multiplexers/mux_8to1_TB.vhd|
+!i113 1
+R9
+R10
+Amux_8to1_tb_arch
+DEx4 work 11 mux_8to1_tb 0 22 D`1?UA7dk6VjYDzXKab5]2
+l21
+L4
+VnmU@?P@3d9@Ak7;O[S5O]3
+!s100 ;Na1hJ?ImZXMSFO5>;Y_j2
+R4
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R9
+R10

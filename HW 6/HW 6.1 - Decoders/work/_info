@@ -1,0 +1,80 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Programs
+Edecoder_1hot_4to16
+Z0 w1554197632
+Z1 dD:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.1 - Decoders
+Z2 8D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.1 - Decoders/decoder_1hot_4to16.vhd
+Z3 FD:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.1 - Decoders/decoder_1hot_4to16.vhd
+l0
+L1
+V`^dPS;BXJO]M^lj]cil?71
+!s100 Pm38;TL8?CckJF`T^ziZi3
+Z4 OV;C;10.5b;63
+32
+Z5 !s110 1554197636
+!i10b 1
+Z6 !s108 1554197636.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.1 - Decoders/decoder_1hot_4to16.vhd|
+Z8 !s107 D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.1 - Decoders/decoder_1hot_4to16.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1 CvgOpt 0
+Adecoder_1hot_4to16_arch
+DEx4 work 18 decoder_1hot_4to16 0 22 `^dPS;BXJO]M^lj]cil?71
+l7
+L5
+VIedQ>`RSK<42]XoBg`_=Y3
+!s100 KSRJmcl4Cna<PeI7dN]I60
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Edecoder_1hot_4to16_tb
+Z11 w1554195592
+R1
+Z12 8D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.1 - Decoders/decoder_1hot_4to16_TB.vhd
+Z13 FD:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.1 - Decoders/decoder_1hot_4to16_TB.vhd
+l0
+L1
+VRZY95nRQ<T3XKD5JS5`H82
+!s100 [ZVDReNLhMCDUMncg7`Jk2
+R4
+32
+Z14 !s110 1554196484
+!i10b 1
+Z15 !s108 1554196484.000000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.1 - Decoders/decoder_1hot_4to16_TB.vhd|
+Z17 !s107 D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.1 - Decoders/decoder_1hot_4to16_TB.vhd|
+!i113 1
+R9
+R10
+Adecoder_1hot_4to16_tb_arch
+DEx4 work 21 decoder_1hot_4to16_tb 0 22 RZY95nRQ<T3XKD5JS5`H82
+l19
+L4
+VO60lWMI9GLGCD`JAWLWVB3
+!s100 e=W`dLQHPX^9Tf;B;bU9h1
+R4
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R9
+R10

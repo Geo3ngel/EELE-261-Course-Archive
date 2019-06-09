@@ -1,0 +1,13 @@
+{D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.3 - Multiplexers/mux_8to1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.3 - Multiplexers/mux_8to1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity mux_8to1
+-- Compiling architecture mux_8to1_arch of mux_8to1
+
+} {} {}} {D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.3 - Multiplexers/mux_8to1_TB.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.3 - Multiplexers/mux_8to1_TB.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity mux_8to1_TB
+-- Compiling architecture mux_8to1_TB_arch of mux_8to1_TB
+
+} {} {}}

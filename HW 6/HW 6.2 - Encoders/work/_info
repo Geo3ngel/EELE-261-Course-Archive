@@ -1,0 +1,80 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.1 - Decoders
+Eencoder_8to3_binary
+Z0 w1554198660
+Z1 dD:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.2 - Encoders
+Z2 8D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.2 - Encoders/encoder_8to3_binary.vhd
+Z3 FD:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.2 - Encoders/encoder_8to3_binary.vhd
+l0
+L1
+V9;g]]2@NLm]3bfBCUP1oB3
+!s100 Y@BoF]EK^NP]3Ok1EichK1
+Z4 OV;C;10.5b;63
+32
+Z5 !s110 1554198663
+!i10b 1
+Z6 !s108 1554198663.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.2 - Encoders/encoder_8to3_binary.vhd|
+Z8 !s107 D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.2 - Encoders/encoder_8to3_binary.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1 CvgOpt 0
+Aencoder_8to3_binary_arch
+DEx4 work 19 encoder_8to3_binary 0 22 9;g]]2@NLm]3bfBCUP1oB3
+l7
+L5
+VXZ7ZRJT6jlRKOR_PoiT203
+!s100 k:Z<Y>?A;h35?IRFnZbXT2
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Eencoder_8to3_binary_tb
+Z11 w1554198070
+R1
+Z12 8D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.2 - Encoders/encoder_8to3_binary_TB.vhd
+Z13 FD:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.2 - Encoders/encoder_8to3_binary_TB.vhd
+l0
+L1
+V6;OQoGMIK?SenWl2:IaE:0
+!s100 ?h2GZGPkB7bJkCP^VOdPF3
+R4
+32
+Z14 !s110 1554198155
+!i10b 1
+Z15 !s108 1554198155.000000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.2 - Encoders/encoder_8to3_binary_TB.vhd|
+Z17 !s107 D:/Desktop D/College/School Junior Year/Spring Semester/EELE 261/HW 6/HW 6.2 - Encoders/encoder_8to3_binary_TB.vhd|
+!i113 1
+R9
+R10
+Aencoder_8to3_binary_tb_arch
+DEx4 work 22 encoder_8to3_binary_tb 0 22 6;OQoGMIK?SenWl2:IaE:0
+l19
+L4
+VY?Y4?SVWc9:a1eh8MNbYG2
+!s100 ITe_b?dZ[[<17`Y2AlQ=23
+R4
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R9
+R10
